@@ -1,0 +1,53 @@
+Problem Statement:
+SMART AQUATIC HEALTH MONITORING SYSTEM 
+                                      - ML for Aquatic Ecosystem: Dissolved Oxygen dynamics 
+Decline in the health of Aquatic Ecosystems can have a detrimental impact on the human population and the biosphere as a whole. From aquaculture to sustenance of biodiversity to climate regulations, the Aquatic Ecosystem plays a pivotal role in human survival and prosperity. The existing technologies include IoT based Aquaculture health monitoring system [1], Water quality monitoring system [2] among others, most of which use multiple sensors making the monitoring systems bulkier and costlier due to integration of multiple sensors and engines for accurate data sensing. It is pertinent to provide quicker, easier solutions that leverage emerging ML/DL techniques to help monitor aquatic ecosystems in real time and mitigate biochemical toxicity hazards along with enabling environmentalists/scientists in developing efficient bio-safety measures for aquatic species. 
+*References in the document shared below
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Our Innovative solution
+Underwater Ecosystems’ health can be determined via factors like pH, Water Temperature, Dissolved Oxygen (DO) sediment concentration and so on. From our analysis, DO was found to be a major contributor as its levels directly affect species diversity in that ecosystem and also points out biochemical toxicity which is hazardous. Our Solution focuses on building a Machine Learning/Deep Learning model that uses minimum sensors for data collection and predict health status based off of an underwater image. This approach minimizes the cost of constructing, installation and maintenance of the monitoring system as it includes minimal sensors.
+
+Working of the health monitoring system:
+Consider an aquarium setup at home. The ecosystem's health status can be determined by just uploading an underwater image of the aquarium, from which the model predicts it's results. These results can be analyzed by the user to make appropriate decisions. 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Future Scope
+Currently, the proposed prototype predicts aquatic health status only when the user inputs an underwater image and other required sensor data. This prototype can be further scaled by:
+1) automation of sensor data and image input to the prediction model.
+2) explore complex aquatic systems that affect aquatic health and try capture those complex systems in an image/video for more accurate prediction.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+WOW Factor
+One-Click Solution for Predicting Aquatic Ecosystem Health - enabling users to instantly predict health standards of underwater biota by simply uploading an image as input.
+This work also falls under the following Sustainable Development Goals:
+Goal 6: Clean water and Sanitation
+The model can be used to predict water potability.
+Goal 14: Life Below Water 
+By predicting the ecosystem’s health status, appropriate measures to overcome major issues like ocean warming, ocean acidification and coastal acidification which can adversely affect the life under water. 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Technology Stack
+Python and its libraries for building machine learning and deep learning models
+Using custom image dataset created using publicly available datasets
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+References:
+ [1] Demetillo, A. T., Japitana, M. V., & Taboada, E. B. (2019). A system for monitoring water quality in a large aquatic area using wireless sensor network technology. Sustainable Environment Research, 29(1), 1-9.
+[2] Sarwar, A., & Iqbal, M. T. (2022). IoT-Based Real-Time Aquaculture Health Monitoring System. European Journal of Electrical Engineering and Computer Science, 6(4), 44-50.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+IMAGE DATASET :
+Trejo-Zúñiga, I., Moreno, M., Santana-Cruz, R. F., & Meléndez-Vázquez, F. (2024). Deep Learning-Driven of Turbidity Levels Dataset (Version 1.0) [Data set]. Zenodo.
+
+TABULAR WATER QUALITY DATASET
+https://www.kaggle.com/datasets/shreyanshverma27/water-quality-testing 
+
+
+

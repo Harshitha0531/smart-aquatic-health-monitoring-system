@@ -1,0 +1,501 @@
+,img_path,DO_label,turbidity_label,label_code,DO_label_code
+0,/content/resized_folder/resized_DSC_8974.jpg,Moderate,High turbidity,3,2
+1,/content/resized_folder/resized_DSC_8973.jpg,Low,Very high turbidity,4,1
+2,/content/resized_folder/resized_DSC_8907.jpg,High,Moderate turbidity,2,3
+3,/content/resized_folder/resized_DSC_8864.jpg,Very high,Low turbidity,1,4
+4,/content/resized_folder/resized_DSC_8903.jpg,High,Moderate turbidity,2,3
+5,/content/resized_folder/resized_DSC_8956.jpg,Moderate,Very high turbidity,4,2
+6,/content/resized_folder/resized_DSC_8974.jpg,High,High turbidity,3,3
+7,/content/resized_folder/resized_DSC_8913.jpg,Low,Moderate turbidity,2,1
+8,/content/resized_folder/resized_DSC_8959.jpg,High,High turbidity,3,3
+9,/content/resized_folder/resized_DSC_8961.jpg,Moderate,Very high turbidity,4,2
+10,/content/resized_folder/resized_DSC_8970.jpg,High,High turbidity,3,3
+11,/content/resized_folder/resized_DSC_8902.jpg,Moderate,Moderate turbidity,2,2
+12,/content/resized_folder/resized_DSC_8975.jpg,Low,High turbidity,3,1
+13,/content/resized_folder/resized_DSC_8899.jpg,Very high,Moderate turbidity,2,4
+14,/content/resized_folder/resized_DSC_8934.jpg,Moderate,Low turbidity,1,2
+15,/content/resized_folder/resized_DSC_8942.jpg,Low,Very high turbidity,4,1
+16,/content/resized_folder/resized_DSC_8968.jpg,High,High turbidity,3,3
+17,/content/resized_folder/resized_DSC_8916.jpg,Very high,Low turbidity,1,4
+18,/content/resized_folder/resized_DSC_8908.jpg,Moderate,Moderate turbidity,2,2
+19,/content/resized_folder/resized_DSC_8982.jpg,High,Very high turbidity,4,3
+20,/content/resized_folder/resized_DSC_8917.jpg,Low,Low turbidity,1,1
+21,/content/resized_folder/resized_DSC_8962.jpg,Moderate,High turbidity,3,2
+22,/content/resized_folder/resized_DSC_8959.jpg,Moderate,High turbidity,3,2
+23,/content/resized_folder/resized_DSC_8908.jpg,Very high,Moderate turbidity,2,4
+24,/content/resized_folder/resized_DSC_8957.jpg,Moderate,High turbidity,3,2
+25,/content/resized_folder/resized_DSC_8944.jpg,Low,Very high turbidity,4,1
+26,/content/resized_folder/resized_DSC_8907.jpg,High,Moderate turbidity,2,3
+27,/content/resized_folder/resized_DSC_8955.jpg,Low,Very high turbidity,4,1
+28,/content/resized_folder/resized_DSC_8975.jpg,High,High turbidity,3,3
+29,/content/resized_folder/resized_DSC_8904.jpg,Low,Moderate turbidity,2,1
+30,/content/resized_folder/resized_DSC_8957.jpg,High,High turbidity,3,3
+31,/content/resized_folder/resized_DSC_8991.jpg,Low,Very high turbidity,4,1
+32,/content/resized_folder/resized_DSC_8896.jpg,High,Moderate turbidity,2,3
+33,/content/resized_folder/resized_DSC_8908.jpg,Moderate,Moderate turbidity,2,2
+34,/content/resized_folder/resized_DSC_8949.jpg,Moderate,Very high turbidity,4,2
+35,/content/resized_folder/resized_DSC_8900.jpg,High,Moderate turbidity,2,3
+36,/content/resized_folder/resized_DSC_8958.jpg,Moderate,High turbidity,3,2
+37,/content/resized_folder/resized_DSC_8969.jpg,Moderate,High turbidity,3,2
+38,/content/resized_folder/resized_DSC_8902.jpg,Very high,Moderate turbidity,2,4
+39,/content/resized_folder/resized_DSC_8893.jpg,High,Low turbidity,1,3
+40,/content/resized_folder/resized_DSC_8913.jpg,Very high,Moderate turbidity,2,4
+41,/content/resized_folder/resized_DSC_8958.jpg,High,High turbidity,3,3
+42,/content/resized_folder/resized_DSC_8946.jpg,Low,Very high turbidity,4,1
+43,/content/resized_folder/resized_DSC_8969.jpg,Moderate,High turbidity,3,2
+44,/content/resized_folder/resized_DSC_8968.jpg,Very high,High turbidity,3,4
+45,/content/resized_folder/resized_DSC_8905.jpg,Moderate,Moderate turbidity,2,2
+46,/content/resized_folder/resized_DSC_8975.jpg,Moderate,High turbidity,3,2
+47,/content/resized_folder/resized_DSC_8903.jpg,High,Moderate turbidity,2,3
+48,/content/resized_folder/resized_DSC_8959.jpg,High,High turbidity,3,3
+49,/content/resized_folder/resized_DSC_8908.jpg,Very high,Moderate turbidity,2,4
+50,/content/resized_folder/resized_DSC_8950.jpg,Low,Very high turbidity,4,1
+51,/content/resized_folder/resized_DSC_8872.jpg,Very high,Low turbidity,1,4
+52,/content/resized_folder/resized_DSC_8907.jpg,High,Moderate turbidity,2,3
+53,/content/resized_folder/resized_DSC_8968.jpg,Moderate,High turbidity,3,2
+54,/content/resized_folder/resized_DSC_8972.jpg,High,High turbidity,3,3
+55,/content/resized_folder/resized_DSC_8894.jpg,Very high,Low turbidity,1,4
+56,/content/resized_folder/resized_DSC_8948.jpg,Moderate,Very high turbidity,4,2
+57,/content/resized_folder/resized_DSC_8915.jpg,Low,Moderate turbidity,2,1
+58,/content/resized_folder/resized_DSC_8965.jpg,Low,High turbidity,3,1
+59,/content/resized_folder/resized_DSC_8947.jpg,Moderate,Very high turbidity,4,2
+60,/content/resized_folder/resized_DSC_8899.jpg,High,Moderate turbidity,2,3
+61,/content/resized_folder/resized_DSC_8972.jpg,Moderate,High turbidity,3,2
+62,/content/resized_folder/resized_DSC_8970.jpg,High,High turbidity,3,3
+63,/content/resized_folder/resized_DSC_8911.jpg,High,Moderate turbidity,2,3
+64,/content/resized_folder/resized_DSC_8904.jpg,Low,Moderate turbidity,2,1
+65,/content/resized_folder/resized_DSC_8972.jpg,Very high,High turbidity,3,4
+66,/content/resized_folder/resized_DSC_8900.jpg,High,Moderate turbidity,2,3
+67,/content/resized_folder/resized_DSC_8941.jpg,Moderate,Very high turbidity,4,2
+68,/content/resized_folder/resized_DSC_8876.jpg,Very high,Low turbidity,1,4
+69,/content/resized_folder/resized_DSC_8974.jpg,Moderate,High turbidity,3,2
+70,/content/resized_folder/resized_DSC_8910.jpg,High,Moderate turbidity,2,3
+71,/content/resized_folder/resized_DSC_8964.jpg,Low,Very high turbidity,4,1
+72,/content/resized_folder/resized_DSC_8925.jpg,Very high,Low turbidity,1,4
+73,/content/resized_folder/resized_DSC_8937.jpg,Moderate,Very high turbidity,4,2
+74,/content/resized_folder/resized_DSC_8965.jpg,High,High turbidity,3,3
+75,/content/resized_folder/resized_DSC_8902.jpg,Moderate,Moderate turbidity,2,2
+76,/content/resized_folder/resized_DSC_8881.jpg,Very high,Low turbidity,1,4
+77,/content/resized_folder/resized_DSC_8954.jpg,Moderate,Very high turbidity,4,2
+78,/content/resized_folder/resized_DSC_8891.jpg,High,Low turbidity,1,3
+79,/content/resized_folder/resized_DSC_8968.jpg,Very high,High turbidity,3,4
+80,/content/resized_folder/resized_DSC_8901.jpg,Low,Moderate turbidity,2,1
+81,/content/resized_folder/resized_DSC_8898.jpg,Moderate,Moderate turbidity,2,2
+82,/content/resized_folder/resized_DSC_8965.jpg,High,High turbidity,3,3
+83,/content/resized_folder/resized_DSC_8969.jpg,High,High turbidity,3,3
+84,/content/resized_folder/resized_DSC_8896.jpg,Very high,Moderate turbidity,2,4
+85,/content/resized_folder/resized_DSC_8974.jpg,Low,High turbidity,3,1
+86,/content/resized_folder/resized_DSC_8842.jpg,High,Low turbidity,1,3
+87,/content/resized_folder/resized_DSC_8955.jpg,Moderate,Very high turbidity,4,2
+88,/content/resized_folder/resized_DSC_8898.jpg,Very high,Moderate turbidity,2,4
+89,/content/resized_folder/resized_DSC_8959.jpg,High,High turbidity,3,3
+90,/content/resized_folder/resized_DSC_8972.jpg,Moderate,High turbidity,3,2
+91,/content/resized_folder/resized_DSC_8947.jpg,Low,Very high turbidity,4,1
+92,/content/resized_folder/resized_DSC_8957.jpg,High,High turbidity,3,3
+93,/content/resized_folder/resized_DSC_8911.jpg,High,Moderate turbidity,2,3
+94,/content/resized_folder/resized_DSC_8903.jpg,High,Moderate turbidity,2,3
+95,/content/resized_folder/resized_DSC_8950.jpg,High,Very high turbidity,4,3
+96,/content/resized_folder/resized_DSC_8904.jpg,Moderate,Moderate turbidity,2,2
+97,/content/resized_folder/resized_DSC_8859.jpg,Very high,Low turbidity,1,4
+98,/content/resized_folder/resized_DSC_8962.jpg,Moderate,High turbidity,3,2
+99,/content/resized_folder/resized_DSC_8954.jpg,Moderate,Very high turbidity,4,2
+100,/content/resized_folder/resized_DSC_8870.jpg,High,Low turbidity,1,3
+101,/content/resized_folder/resized_DSC_8957.jpg,Moderate,High turbidity,3,2
+102,/content/resized_folder/resized_DSC_8967.jpg,Very high,High turbidity,3,4
+103,/content/resized_folder/resized_DSC_8895.jpg,High,Moderate turbidity,2,3
+104,/content/resized_folder/resized_DSC_8969.jpg,Moderate,High turbidity,3,2
+105,/content/resized_folder/resized_DSC_8872.jpg,Very high,Low turbidity,1,4
+106,/content/resized_folder/resized_DSC_8969.jpg,Low,High turbidity,3,1
+107,/content/resized_folder/resized_DSC_8954.jpg,Moderate,Very high turbidity,4,2
+108,/content/resized_folder/resized_DSC_8901.jpg,High,Moderate turbidity,2,3
+109,/content/resized_folder/resized_DSC_8951.jpg,High,Very high turbidity,4,3
+110,/content/resized_folder/resized_DSC_8856.jpg,Moderate,Low turbidity,1,2
+111,/content/resized_folder/resized_DSC_8974.jpg,High,High turbidity,3,3
+112,/content/resized_folder/resized_DSC_8903.jpg,Very high,Moderate turbidity,2,4
+113,/content/resized_folder/resized_DSC_8972.jpg,Moderate,High turbidity,3,2
+114,/content/resized_folder/resized_DSC_8878.jpg,Very high,Low turbidity,1,4
+115,/content/resized_folder/resized_DSC_8967.jpg,Low,High turbidity,3,1
+116,/content/resized_folder/resized_DSC_8971.jpg,High,High turbidity,3,3
+117,/content/resized_folder/resized_DSC_8960.jpg,Moderate,Very high turbidity,4,2
+118,/content/resized_folder/resized_DSC_8904.jpg,Very high,Moderate turbidity,2,4
+119,/content/resized_folder/resized_DSC_8959.jpg,High,High turbidity,3,3
+120,/content/resized_folder/resized_DSC_8900.jpg,Very high,Moderate turbidity,2,4
+121,/content/resized_folder/resized_DSC_8957.jpg,Low,High turbidity,3,1
+122,/content/resized_folder/resized_DSC_8935.jpg,Moderate,Low turbidity,1,2
+123,/content/resized_folder/resized_DSC_8948.jpg,High,Very high turbidity,4,3
+124,/content/resized_folder/resized_DSC_8923.jpg,Very high,Low turbidity,1,4
+125,/content/resized_folder/resized_DSC_8974.jpg,Low,High turbidity,3,1
+126,/content/resized_folder/resized_DSC_8905.jpg,Very high,Moderate turbidity,2,4
+127,/content/resized_folder/resized_DSC_8967.jpg,Moderate,High turbidity,3,2
+128,/content/resized_folder/resized_DSC_8969.jpg,High,High turbidity,3,3
+129,/content/resized_folder/resized_DSC_8939.jpg,Moderate,Very high turbidity,4,2
+130,/content/resized_folder/resized_DSC_8913.jpg,High,Moderate turbidity,2,3
+131,/content/resized_folder/resized_DSC_8962.jpg,Very high,High turbidity,3,4
+132,/content/resized_folder/resized_DSC_8969.jpg,Moderate,High turbidity,3,2
+133,/content/resized_folder/resized_DSC_8900.jpg,High,Moderate turbidity,2,3
+134,/content/resized_folder/resized_DSC_8971.jpg,High,High turbidity,3,3
+135,/content/resized_folder/resized_DSC_8910.jpg,Very high,Moderate turbidity,2,4
+136,/content/resized_folder/resized_DSC_8942.jpg,Moderate,Very high turbidity,4,2
+137,/content/resized_folder/resized_DSC_8969.jpg,High,High turbidity,3,3
+138,/content/resized_folder/resized_DSC_8897.jpg,High,Moderate turbidity,2,3
+139,/content/resized_folder/resized_DSC_8963.jpg,Very high,High turbidity,3,4
+140,/content/resized_folder/resized_DSC_8886.jpg,Moderate,Low turbidity,1,2
+141,/content/resized_folder/resized_DSC_8963.jpg,High,High turbidity,3,3
+142,/content/resized_folder/resized_DSC_8898.jpg,Very high,Moderate turbidity,2,4
+143,/content/resized_folder/resized_DSC_8969.jpg,Moderate,High turbidity,3,2
+144,/content/resized_folder/resized_DSC_8864.jpg,Very high,Low turbidity,1,4
+145,/content/resized_folder/resized_DSC_8945.jpg,Moderate,Very high turbidity,4,2
+146,/content/resized_folder/resized_DSC_8961.jpg,High,Very high turbidity,4,3
+147,/content/resized_folder/resized_DSC_8918.jpg,High,Low turbidity,1,3
+148,/content/resized_folder/resized_DSC_8909.jpg,Very high,Moderate turbidity,2,4
+149,/content/resized_folder/resized_DSC_8959.jpg,Moderate,High turbidity,3,2
+150,/content/resized_folder/resized_DSC_8896.jpg,Very high,Moderate turbidity,2,4
+151,/content/resized_folder/resized_DSC_8965.jpg,Low,High turbidity,3,1
+152,/content/resized_folder/resized_DSC_8938.jpg,Moderate,Very high turbidity,4,2
+153,/content/resized_folder/resized_DSC_8861.jpg,Very high,Low turbidity,1,4
+154,/content/resized_folder/resized_DSC_8972.jpg,Moderate,High turbidity,3,2
+155,/content/resized_folder/resized_DSC_8956.jpg,Low,Very high turbidity,4,1
+156,/content/resized_folder/resized_DSC_8908.jpg,Very high,Moderate turbidity,2,4
+157,/content/resized_folder/resized_DSC_8958.jpg,Moderate,High turbidity,3,2
+158,/content/resized_folder/resized_DSC_8965.jpg,High,High turbidity,3,3
+159,/content/resized_folder/resized_DSC_8937.jpg,Moderate,Very high turbidity,4,2
+160,/content/resized_folder/resized_DSC_8910.jpg,High,Moderate turbidity,2,3
+161,/content/resized_folder/resized_DSC_8945.jpg,Very high,Very high turbidity,4,4
+162,/content/resized_folder/resized_DSC_8969.jpg,Moderate,High turbidity,3,2
+163,/content/resized_folder/resized_DSC_8972.jpg,High,High turbidity,3,3
+164,/content/resized_folder/resized_DSC_8905.jpg,Moderate,Moderate turbidity,2,2
+165,/content/resized_folder/resized_DSC_8968.jpg,Very high,High turbidity,3,4
+166,/content/resized_folder/resized_DSC_8899.jpg,Moderate,Moderate turbidity,2,2
+167,/content/resized_folder/resized_DSC_8949.jpg,High,Very high turbidity,4,3
+168,/content/resized_folder/resized_DSC_8903.jpg,High,Moderate turbidity,2,3
+169,/content/resized_folder/resized_DSC_8963.jpg,Very high,High turbidity,3,4
+170,/content/resized_folder/resized_DSC_8876.jpg,Moderate,Low turbidity,1,2
+171,/content/resized_folder/resized_DSC_8959.jpg,High,High turbidity,3,3
+172,/content/resized_folder/resized_DSC_8947.jpg,Very high,Very high turbidity,4,4
+173,/content/resized_folder/resized_DSC_8915.jpg,High,Moderate turbidity,2,3
+174,/content/resized_folder/resized_DSC_8963.jpg,Very high,High turbidity,3,4
+175,/content/resized_folder/resized_DSC_8905.jpg,Moderate,Moderate turbidity,2,2
+176,/content/resized_folder/resized_DSC_8972.jpg,High,High turbidity,3,3
+177,/content/resized_folder/resized_DSC_8970.jpg,Moderate,High turbidity,3,2
+178,/content/resized_folder/resized_DSC_8910.jpg,Very high,Moderate turbidity,2,4
+179,/content/resized_folder/resized_DSC_8949.jpg,Moderate,Very high turbidity,4,2
+180,/content/resized_folder/resized_DSC_8911.jpg,Very high,Moderate turbidity,2,4
+181,/content/resized_folder/resized_DSC_8972.jpg,Moderate,High turbidity,3,2
+182,/content/resized_folder/resized_DSC_8901.jpg,High,Moderate turbidity,2,3
+183,/content/resized_folder/resized_DSC_8975.jpg,High,High turbidity,3,3
+184,/content/resized_folder/resized_DSC_8967.jpg,Moderate,High turbidity,3,2
+185,/content/resized_folder/resized_DSC_8913.jpg,Moderate,Moderate turbidity,2,2
+186,/content/resized_folder/resized_DSC_8938.jpg,Very high,Very high turbidity,4,4
+187,/content/resized_folder/resized_DSC_8965.jpg,Low,High turbidity,3,1
+188,/content/resized_folder/resized_DSC_8982.jpg,High,Very high turbidity,4,3
+189,/content/resized_folder/resized_DSC_8932.jpg,High,Low turbidity,1,3
+190,/content/resized_folder/resized_DSC_8974.jpg,High,High turbidity,3,3
+191,/content/resized_folder/resized_DSC_8901.jpg,High,Moderate turbidity,2,3
+192,/content/resized_folder/resized_DSC_8974.jpg,High,High turbidity,3,3
+193,/content/resized_folder/resized_DSC_8895.jpg,Moderate,Moderate turbidity,2,2
+194,/content/resized_folder/resized_DSC_8969.jpg,Very high,High turbidity,3,4
+195,/content/resized_folder/resized_DSC_8971.jpg,High,High turbidity,3,3
+196,/content/resized_folder/resized_DSC_8901.jpg,Moderate,Moderate turbidity,2,2
+197,/content/resized_folder/resized_DSC_8968.jpg,Very high,High turbidity,3,4
+198,/content/resized_folder/resized_DSC_8991.jpg,High,Very high turbidity,4,3
+199,/content/resized_folder/resized_DSC_8929.jpg,Moderate,Low turbidity,1,2
+200,/content/resized_folder/resized_DSC_8975.jpg,High,High turbidity,3,3
+201,/content/resized_folder/resized_DSC_8899.jpg,Very high,Moderate turbidity,2,4
+202,/content/resized_folder/resized_DSC_8968.jpg,Moderate,High turbidity,3,2
+203,/content/resized_folder/resized_DSC_8901.jpg,High,Moderate turbidity,2,3
+204,/content/resized_folder/resized_DSC_8991.jpg,High,Very high turbidity,4,3
+205,/content/resized_folder/resized_DSC_8968.jpg,Very high,High turbidity,3,4
+206,/content/resized_folder/resized_DSC_8902.jpg,Moderate,Moderate turbidity,2,2
+207,/content/resized_folder/resized_DSC_8950.jpg,High,Very high turbidity,4,3
+208,/content/resized_folder/resized_DSC_8970.jpg,High,High turbidity,3,3
+209,/content/resized_folder/resized_DSC_8958.jpg,Very high,High turbidity,3,4
+210,/content/resized_folder/resized_DSC_8908.jpg,Moderate,Moderate turbidity,2,2
+211,/content/resized_folder/resized_DSC_8974.jpg,High,High turbidity,3,3
+212,/content/resized_folder/resized_DSC_8962.jpg,High,High turbidity,3,3
+213,/content/resized_folder/resized_DSC_8900.jpg,Very high,Moderate turbidity,2,4
+214,/content/resized_folder/resized_DSC_8974.jpg,High,High turbidity,3,3
+215,/content/resized_folder/resized_DSC_8900.jpg,Very high,Moderate turbidity,2,4
+216,/content/resized_folder/resized_DSC_8966.jpg,High,Very high turbidity,4,3
+217,/content/resized_folder/resized_DSC_8898.jpg,Moderate,Moderate turbidity,2,2
+218,/content/resized_folder/resized_DSC_8969.jpg,Very high,High turbidity,3,4
+219,/content/resized_folder/resized_DSC_8905.jpg,Moderate,Moderate turbidity,2,2
+220,/content/resized_folder/resized_DSC_8970.jpg,Very high,High turbidity,3,4
+221,/content/resized_folder/resized_DSC_8962.jpg,Moderate,High turbidity,3,2
+222,/content/resized_folder/resized_DSC_8897.jpg,High,Moderate turbidity,2,3
+223,/content/resized_folder/resized_DSC_8972.jpg,Moderate,High turbidity,3,2
+224,/content/resized_folder/resized_DSC_8897.jpg,Very high,Moderate turbidity,2,4
+225,/content/resized_folder/resized_DSC_8982.jpg,Moderate,Very high turbidity,4,2
+226,/content/resized_folder/resized_DSC_8963.jpg,High,High turbidity,3,3
+227,/content/resized_folder/resized_DSC_8912.jpg,Very high,Moderate turbidity,2,4
+228,/content/resized_folder/resized_DSC_8943.jpg,Moderate,Very high turbidity,4,2
+229,/content/resized_folder/resized_DSC_8965.jpg,High,High turbidity,3,3
+230,/content/resized_folder/resized_DSC_8897.jpg,High,Moderate turbidity,2,3
+231,/content/resized_folder/resized_DSC_8968.jpg,Very high,High turbidity,3,4
+232,/content/resized_folder/resized_DSC_8975.jpg,Moderate,High turbidity,3,2
+233,/content/resized_folder/resized_DSC_8904.jpg,Very high,Moderate turbidity,2,4
+234,/content/resized_folder/resized_DSC_8959.jpg,Moderate,High turbidity,3,2
+235,/content/resized_folder/resized_DSC_8909.jpg,High,Moderate turbidity,2,3
+236,/content/resized_folder/resized_DSC_8937.jpg,High,Very high turbidity,4,3
+237,/content/resized_folder/resized_DSC_8957.jpg,Very high,High turbidity,3,4
+238,/content/resized_folder/resized_DSC_8902.jpg,High,Moderate turbidity,2,3
+239,/content/resized_folder/resized_DSC_8960.jpg,Very high,Very high turbidity,4,4
+240,/content/resized_folder/resized_DSC_8907.jpg,Moderate,Moderate turbidity,2,2
+241,/content/resized_folder/resized_DSC_8972.jpg,Very high,High turbidity,3,4
+242,/content/resized_folder/resized_DSC_8975.jpg,High,High turbidity,3,3
+243,/content/resized_folder/resized_DSC_8962.jpg,High,High turbidity,3,3
+244,/content/resized_folder/resized_DSC_8912.jpg,Very high,Moderate turbidity,2,4
+245,/content/resized_folder/resized_DSC_8956.jpg,Moderate,Very high turbidity,4,2
+246,/content/resized_folder/resized_DSC_8975.jpg,High,High turbidity,3,3
+247,/content/resized_folder/resized_DSC_8900.jpg,Moderate,Moderate turbidity,2,2
+248,/content/resized_folder/resized_DSC_8946.jpg,Very high,Very high turbidity,4,4
+249,/content/resized_folder/resized_DSC_8901.jpg,High,Moderate turbidity,2,3
+250,/content/resized_folder/resized_DSC_8969.jpg,Very high,High turbidity,3,4
+251,/content/resized_folder/resized_DSC_8957.jpg,Moderate,High turbidity,3,2
+252,/content/resized_folder/resized_DSC_8910.jpg,Very high,Moderate turbidity,2,4
+253,/content/resized_folder/resized_DSC_8975.jpg,High,High turbidity,3,3
+254,/content/resized_folder/resized_DSC_8915.jpg,Very high,Moderate turbidity,2,4
+255,/content/resized_folder/resized_DSC_8944.jpg,Moderate,Very high turbidity,4,2
+256,/content/resized_folder/resized_DSC_8968.jpg,Very high,High turbidity,3,4
+257,/content/resized_folder/resized_DSC_8970.jpg,High,High turbidity,3,3
+258,/content/resized_folder/resized_DSC_8912.jpg,Very high,Moderate turbidity,2,4
+259,/content/resized_folder/resized_DSC_8967.jpg,Moderate,High turbidity,3,2
+260,/content/resized_folder/resized_DSC_8896.jpg,High,Moderate turbidity,2,3
+261,/content/resized_folder/resized_DSC_8982.jpg,Very high,Very high turbidity,4,4
+262,/content/resized_folder/resized_DSC_8965.jpg,Moderate,High turbidity,3,2
+263,/content/resized_folder/resized_DSC_8897.jpg,Very high,Moderate turbidity,2,4
+264,/content/resized_folder/resized_DSC_8968.jpg,Moderate,High turbidity,3,2
+265,/content/resized_folder/resized_DSC_8965.jpg,High,High turbidity,3,3
+266,/content/resized_folder/resized_DSC_8913.jpg,Moderate,Moderate turbidity,2,2
+267,/content/resized_folder/resized_DSC_8939.jpg,High,Very high turbidity,4,3
+268,/content/resized_folder/resized_DSC_8905.jpg,High,Moderate turbidity,2,3
+269,/content/resized_folder/resized_DSC_8938.jpg,Very high,Very high turbidity,4,4
+270,/content/resized_folder/resized_DSC_8915.jpg,Moderate,Moderate turbidity,2,2
+271,/content/resized_folder/resized_DSC_8959.jpg,High,High turbidity,3,3
+272,/content/resized_folder/resized_DSC_8969.jpg,High,High turbidity,3,3
+273,/content/resized_folder/resized_DSC_8957.jpg,Moderate,High turbidity,3,2
+274,/content/resized_folder/resized_DSC_8898.jpg,Very high,Moderate turbidity,2,4
+275,/content/resized_folder/resized_DSC_8958.jpg,Moderate,High turbidity,3,2
+276,/content/resized_folder/resized_DSC_8962.jpg,High,High turbidity,3,3
+277,/content/resized_folder/resized_DSC_8906.jpg,High,Moderate turbidity,2,3
+278,/content/resized_folder/resized_DSC_8961.jpg,Very high,Very high turbidity,4,4
+279,/content/resized_folder/resized_DSC_8896.jpg,Moderate,Moderate turbidity,2,2
+280,/content/resized_folder/resized_DSC_8967.jpg,Very high,High turbidity,3,4
+281,/content/resized_folder/resized_DSC_8959.jpg,Moderate,High turbidity,3,2
+282,/content/resized_folder/resized_DSC_8970.jpg,High,High turbidity,3,3
+283,/content/resized_folder/resized_DSC_8965.jpg,High,High turbidity,3,3
+284,/content/resized_folder/resized_DSC_8901.jpg,Moderate,Moderate turbidity,2,2
+285,/content/resized_folder/resized_DSC_8948.jpg,Moderate,Very high turbidity,4,2
+286,/content/resized_folder/resized_DSC_8911.jpg,Very high,Moderate turbidity,2,4
+287,/content/resized_folder/resized_DSC_8963.jpg,Moderate,High turbidity,3,2
+288,/content/resized_folder/resized_DSC_8971.jpg,High,High turbidity,3,3
+289,/content/resized_folder/resized_DSC_8957.jpg,Moderate,High turbidity,3,2
+290,/content/resized_folder/resized_DSC_8915.jpg,High,Moderate turbidity,2,3
+291,/content/resized_folder/resized_DSC_8960.jpg,Very high,Very high turbidity,4,4
+292,/content/resized_folder/resized_DSC_8957.jpg,Moderate,High turbidity,3,2
+293,/content/resized_folder/resized_DSC_8906.jpg,Very high,Moderate turbidity,2,4
+294,/content/resized_folder/resized_DSC_8967.jpg,Moderate,High turbidity,3,2
+295,/content/resized_folder/resized_DSC_8910.jpg,High,Moderate turbidity,2,3
+296,/content/resized_folder/resized_DSC_8965.jpg,Moderate,High turbidity,3,2
+297,/content/resized_folder/resized_DSC_8937.jpg,High,Very high turbidity,4,3
+298,/content/resized_folder/resized_DSC_8905.jpg,High,Moderate turbidity,2,3
+299,/content/resized_folder/resized_DSC_8958.jpg,Very high,High turbidity,3,4
+300,/content/resized_folder/resized_DSC_8898.jpg,Moderate,Moderate turbidity,2,2
+301,/content/resized_folder/resized_DSC_8965.jpg,High,High turbidity,3,3
+302,/content/resized_folder/resized_DSC_8963.jpg,High,High turbidity,3,3
+303,/content/resized_folder/resized_DSC_8909.jpg,Very high,Moderate turbidity,2,4
+304,/content/resized_folder/resized_DSC_8965.jpg,Very high,High turbidity,3,4
+305,/content/resized_folder/resized_DSC_8896.jpg,Very high,Moderate turbidity,2,4
+306,/content/resized_folder/resized_DSC_8972.jpg,High,High turbidity,3,3
+307,/content/resized_folder/resized_DSC_8958.jpg,Moderate,High turbidity,3,2
+308,/content/resized_folder/resized_DSC_8906.jpg,Very high,Moderate turbidity,2,4
+309,/content/resized_folder/resized_DSC_8966.jpg,High,Very high turbidity,4,3
+310,/content/resized_folder/resized_DSC_8912.jpg,Very high,Moderate turbidity,2,4
+311,/content/resized_folder/resized_DSC_8975.jpg,Moderate,High turbidity,3,2
+312,/content/resized_folder/resized_DSC_8903.jpg,High,Moderate turbidity,2,3
+313,/content/resized_folder/resized_DSC_8974.jpg,Moderate,High turbidity,3,2
+314,/content/resized_folder/resized_DSC_8970.jpg,High,High turbidity,3,3
+315,/content/resized_folder/resized_DSC_8982.jpg,Moderate,Very high turbidity,4,2
+316,/content/resized_folder/resized_DSC_8906.jpg,Very high,Moderate turbidity,2,4
+317,/content/resized_folder/resized_DSC_8991.jpg,Moderate,Very high turbidity,4,2
+318,/content/resized_folder/resized_DSC_8905.jpg,High,Moderate turbidity,2,3
+319,/content/resized_folder/resized_DSC_8971.jpg,High,High turbidity,3,3
+320,/content/resized_folder/resized_DSC_8958.jpg,High,High turbidity,3,3
+321,/content/resized_folder/resized_DSC_8960.jpg,Very high,Very high turbidity,4,4
+322,/content/resized_folder/resized_DSC_8952.jpg,Moderate,Very high turbidity,4,2
+323,/content/resized_folder/resized_DSC_8896.jpg,Very high,Moderate turbidity,2,4
+324,/content/resized_folder/resized_DSC_8972.jpg,Moderate,High turbidity,3,2
+325,/content/resized_folder/resized_DSC_8910.jpg,High,Moderate turbidity,2,3
+326,/content/resized_folder/resized_DSC_8959.jpg,Moderate,High turbidity,3,2
+327,/content/resized_folder/resized_DSC_8955.jpg,High,Very high turbidity,4,3
+328,/content/resized_folder/resized_DSC_8906.jpg,High,Moderate turbidity,2,3
+329,/content/resized_folder/resized_DSC_8944.jpg,Very high,Very high turbidity,4,4
+330,/content/resized_folder/resized_DSC_8911.jpg,Moderate,Moderate turbidity,2,2
+331,/content/resized_folder/resized_DSC_8969.jpg,High,High turbidity,3,3
+332,/content/resized_folder/resized_DSC_8969.jpg,High,High turbidity,3,3
+333,/content/resized_folder/resized_DSC_8904.jpg,Very high,Moderate turbidity,2,4
+334,/content/resized_folder/resized_DSC_8959.jpg,Very high,High turbidity,3,4
+335,/content/resized_folder/resized_DSC_8909.jpg,Very high,Moderate turbidity,2,4
+336,/content/resized_folder/resized_DSC_8959.jpg,High,High turbidity,3,3
+337,/content/resized_folder/resized_DSC_8970.jpg,Moderate,High turbidity,3,2
+338,/content/resized_folder/resized_DSC_8915.jpg,Very high,Moderate turbidity,2,4
+339,/content/resized_folder/resized_DSC_8991.jpg,High,Very high turbidity,4,3
+340,/content/resized_folder/resized_DSC_8911.jpg,Very high,Moderate turbidity,2,4
+341,/content/resized_folder/resized_DSC_8971.jpg,Moderate,High turbidity,3,2
+342,/content/resized_folder/resized_DSC_8906.jpg,High,Moderate turbidity,2,3
+343,/content/resized_folder/resized_DSC_8958.jpg,Moderate,High turbidity,3,2
+344,/content/resized_folder/resized_DSC_8967.jpg,High,High turbidity,3,3
+345,/content/resized_folder/resized_DSC_8991.jpg,Moderate,Very high turbidity,4,2
+346,/content/resized_folder/resized_DSC_8908.jpg,Very high,Moderate turbidity,2,4
+347,/content/resized_folder/resized_DSC_8950.jpg,Moderate,Very high turbidity,4,2
+348,/content/resized_folder/resized_DSC_8912.jpg,High,Moderate turbidity,2,3
+349,/content/resized_folder/resized_DSC_8971.jpg,High,High turbidity,3,3
+350,/content/resized_folder/resized_DSC_8972.jpg,High,High turbidity,3,3
+351,/content/resized_folder/resized_DSC_8937.jpg,Very high,Very high turbidity,4,4
+352,/content/resized_folder/resized_DSC_8955.jpg,Moderate,Very high turbidity,4,2
+353,/content/resized_folder/resized_DSC_8900.jpg,Very high,Moderate turbidity,2,4
+354,/content/resized_folder/resized_DSC_8969.jpg,Moderate,High turbidity,3,2
+355,/content/resized_folder/resized_DSC_8908.jpg,High,Moderate turbidity,2,3
+356,/content/resized_folder/resized_DSC_8962.jpg,Moderate,High turbidity,3,2
+357,/content/resized_folder/resized_DSC_8943.jpg,High,Very high turbidity,4,3
+358,/content/resized_folder/resized_DSC_8911.jpg,High,Moderate turbidity,2,3
+359,/content/resized_folder/resized_DSC_8954.jpg,Very high,Very high turbidity,4,4
+360,/content/resized_folder/resized_DSC_8896.jpg,Moderate,Moderate turbidity,2,2
+361,/content/resized_folder/resized_DSC_8975.jpg,High,High turbidity,3,3
+362,/content/resized_folder/resized_DSC_8972.jpg,High,High turbidity,3,3
+363,/content/resized_folder/resized_DSC_8910.jpg,Very high,Moderate turbidity,2,4
+364,/content/resized_folder/resized_DSC_8972.jpg,Very high,High turbidity,3,4
+365,/content/resized_folder/resized_DSC_8899.jpg,Very high,Moderate turbidity,2,4
+366,/content/resized_folder/resized_DSC_8972.jpg,High,High turbidity,3,3
+367,/content/resized_folder/resized_DSC_8957.jpg,Moderate,High turbidity,3,2
+368,/content/resized_folder/resized_DSC_8901.jpg,Very high,Moderate turbidity,2,4
+369,/content/resized_folder/resized_DSC_8960.jpg,High,Very high turbidity,4,3
+370,/content/resized_folder/resized_DSC_8895.jpg,Very high,Moderate turbidity,2,4
+371,/content/resized_folder/resized_DSC_8958.jpg,Moderate,High turbidity,3,2
+372,/content/resized_folder/resized_DSC_8897.jpg,High,Moderate turbidity,2,3
+373,/content/resized_folder/resized_DSC_8967.jpg,Moderate,High turbidity,3,2
+374,/content/resized_folder/resized_DSC_8968.jpg,High,High turbidity,3,3
+375,/content/resized_folder/resized_DSC_8950.jpg,Moderate,Very high turbidity,4,2
+376,/content/resized_folder/resized_DSC_8895.jpg,Very high,Moderate turbidity,2,4
+377,/content/resized_folder/resized_DSC_8955.jpg,Moderate,Very high turbidity,4,2
+378,/content/resized_folder/resized_DSC_8902.jpg,High,Moderate turbidity,2,3
+379,/content/resized_folder/resized_DSC_8968.jpg,High,High turbidity,3,3
+380,/content/resized_folder/resized_DSC_8968.jpg,High,High turbidity,3,3
+381,/content/resized_folder/resized_DSC_8964.jpg,Very high,Very high turbidity,4,4
+382,/content/resized_folder/resized_DSC_8973.jpg,Moderate,Very high turbidity,4,2
+383,/content/resized_folder/resized_DSC_8902.jpg,Very high,Moderate turbidity,2,4
+384,/content/resized_folder/resized_DSC_8968.jpg,Moderate,High turbidity,3,2
+385,/content/resized_folder/resized_DSC_8901.jpg,High,Moderate turbidity,2,3
+386,/content/resized_folder/resized_DSC_8959.jpg,Moderate,High turbidity,3,2
+387,/content/resized_folder/resized_DSC_8940.jpg,High,Very high turbidity,4,3
+388,/content/resized_folder/resized_DSC_8900.jpg,High,Moderate turbidity,2,3
+389,/content/resized_folder/resized_DSC_8941.jpg,Very high,Very high turbidity,4,4
+390,/content/resized_folder/resized_DSC_8907.jpg,Moderate,Moderate turbidity,2,2
+391,/content/resized_folder/resized_DSC_8959.jpg,High,High turbidity,3,3
+392,/content/resized_folder/resized_DSC_8967.jpg,High,High turbidity,3,3
+393,/content/resized_folder/resized_DSC_8907.jpg,Very high,Moderate turbidity,2,4
+394,/content/resized_folder/resized_DSC_8965.jpg,Very high,High turbidity,3,4
+395,/content/resized_folder/resized_DSC_8901.jpg,Very high,Moderate turbidity,2,4
+396,/content/resized_folder/resized_DSC_8967.jpg,High,High turbidity,3,3
+397,/content/resized_folder/resized_DSC_8959.jpg,Moderate,High turbidity,3,2
+398,/content/resized_folder/resized_DSC_8900.jpg,Very high,Moderate turbidity,2,4
+399,/content/resized_folder/resized_DSC_8938.jpg,High,Very high turbidity,4,3
+400,/content/resized_folder/resized_DSC_8897.jpg,Very high,Moderate turbidity,2,4
+401,/content/resized_folder/resized_DSC_8957.jpg,Moderate,High turbidity,3,2
+402,/content/resized_folder/resized_DSC_8900.jpg,High,Moderate turbidity,2,3
+403,/content/resized_folder/resized_DSC_8959.jpg,Moderate,High turbidity,3,2
+404,/content/resized_folder/resized_DSC_8962.jpg,High,High turbidity,3,3
+405,/content/resized_folder/resized_DSC_8947.jpg,Moderate,Very high turbidity,4,2
+406,/content/resized_folder/resized_DSC_8911.jpg,Very high,Moderate turbidity,2,4
+407,/content/resized_folder/resized_DSC_8944.jpg,Moderate,Very high turbidity,4,2
+408,/content/resized_folder/resized_DSC_8907.jpg,High,Moderate turbidity,2,3
+409,/content/resized_folder/resized_DSC_8957.jpg,High,High turbidity,3,3
+410,/content/resized_folder/resized_DSC_8957.jpg,High,High turbidity,3,3
+411,/content/resized_folder/resized_DSC_8951.jpg,Very high,Very high turbidity,4,4
+412,/content/resized_folder/resized_DSC_8948.jpg,Moderate,Very high turbidity,4,2
+413,/content/resized_folder/resized_DSC_8913.jpg,Very high,Moderate turbidity,2,4
+414,/content/resized_folder/resized_DSC_8958.jpg,Moderate,High turbidity,3,2
+415,/content/resized_folder/resized_DSC_8910.jpg,High,Moderate turbidity,2,3
+416,/content/resized_folder/resized_DSC_8968.jpg,Moderate,High turbidity,3,2
+417,/content/resized_folder/resized_DSC_8947.jpg,High,Very high turbidity,4,3
+418,/content/resized_folder/resized_DSC_8897.jpg,High,Moderate turbidity,2,3
+419,/content/resized_folder/resized_DSC_8947.jpg,Very high,Very high turbidity,4,4
+420,/content/resized_folder/resized_DSC_8915.jpg,Moderate,Moderate turbidity,2,2
+421,/content/resized_folder/resized_DSC_8969.jpg,High,High turbidity,3,3
+422,/content/resized_folder/resized_DSC_8962.jpg,High,High turbidity,3,3
+423,/content/resized_folder/resized_DSC_8909.jpg,Very high,Moderate turbidity,2,4
+424,/content/resized_folder/resized_DSC_8970.jpg,Very high,High turbidity,3,4
+425,/content/resized_folder/resized_DSC_8896.jpg,Very high,Moderate turbidity,2,4
+426,/content/resized_folder/resized_DSC_8959.jpg,High,High turbidity,3,3
+427,/content/resized_folder/resized_DSC_8967.jpg,Moderate,High turbidity,3,2
+428,/content/resized_folder/resized_DSC_8915.jpg,Very high,Moderate turbidity,2,4
+429,/content/resized_folder/resized_DSC_8953.jpg,High,Very high turbidity,4,3
+430,/content/resized_folder/resized_DSC_8898.jpg,Very high,Moderate turbidity,2,4
+431,/content/resized_folder/resized_DSC_8967.jpg,Moderate,High turbidity,3,2
+432,/content/resized_folder/resized_DSC_8915.jpg,High,Moderate turbidity,2,3
+433,/content/resized_folder/resized_DSC_8963.jpg,Moderate,High turbidity,3,2
+434,/content/resized_folder/resized_DSC_8975.jpg,High,High turbidity,3,3
+435,/content/resized_folder/resized_DSC_8939.jpg,Moderate,Very high turbidity,4,2
+436,/content/resized_folder/resized_DSC_8902.jpg,Very high,Moderate turbidity,2,4
+437,/content/resized_folder/resized_DSC_8941.jpg,Moderate,Very high turbidity,4,2
+438,/content/resized_folder/resized_DSC_8906.jpg,High,Moderate turbidity,2,3
+439,/content/resized_folder/resized_DSC_8972.jpg,High,High turbidity,3,3
+440,/content/resized_folder/resized_DSC_8959.jpg,High,High turbidity,3,3
+441,/content/resized_folder/resized_DSC_8939.jpg,Very high,Very high turbidity,4,4
+442,/content/resized_folder/resized_DSC_8964.jpg,Moderate,Very high turbidity,4,2
+443,/content/resized_folder/resized_DSC_8913.jpg,Very high,Moderate turbidity,2,4
+444,/content/resized_folder/resized_DSC_8963.jpg,Moderate,High turbidity,3,2
+445,/content/resized_folder/resized_DSC_8900.jpg,High,Moderate turbidity,2,3
+446,/content/resized_folder/resized_DSC_8970.jpg,Moderate,High turbidity,3,2
+447,/content/resized_folder/resized_DSC_8944.jpg,High,Very high turbidity,4,3
+448,/content/resized_folder/resized_DSC_8915.jpg,High,Moderate turbidity,2,3
+449,/content/resized_folder/resized_DSC_8942.jpg,Very high,Very high turbidity,4,4
+450,/content/resized_folder/resized_DSC_8915.jpg,Moderate,Moderate turbidity,2,2
+451,/content/resized_folder/resized_DSC_8970.jpg,High,High turbidity,3,3
+452,/content/resized_folder/resized_DSC_8975.jpg,High,High turbidity,3,3
+453,/content/resized_folder/resized_DSC_8900.jpg,Very high,Moderate turbidity,2,4
+454,/content/resized_folder/resized_DSC_8972.jpg,Very high,High turbidity,3,4
+455,/content/resized_folder/resized_DSC_8912.jpg,Very high,Moderate turbidity,2,4
+456,/content/resized_folder/resized_DSC_8957.jpg,High,High turbidity,3,3
+457,/content/resized_folder/resized_DSC_8969.jpg,Moderate,High turbidity,3,2
+458,/content/resized_folder/resized_DSC_8898.jpg,Very high,Moderate turbidity,2,4
+459,/content/resized_folder/resized_DSC_8982.jpg,High,Very high turbidity,4,3
+460,/content/resized_folder/resized_DSC_8899.jpg,Very high,Moderate turbidity,2,4
+461,/content/resized_folder/resized_DSC_8974.jpg,Moderate,High turbidity,3,2
+462,/content/resized_folder/resized_DSC_8908.jpg,High,Moderate turbidity,2,3
+463,/content/resized_folder/resized_DSC_8974.jpg,Moderate,High turbidity,3,2
+464,/content/resized_folder/resized_DSC_8965.jpg,High,High turbidity,3,3
+465,/content/resized_folder/resized_DSC_8955.jpg,Moderate,Very high turbidity,4,2
+466,/content/resized_folder/resized_DSC_8902.jpg,Very high,Moderate turbidity,2,4
+467,/content/resized_folder/resized_DSC_8942.jpg,Moderate,Very high turbidity,4,2
+468,/content/resized_folder/resized_DSC_8900.jpg,High,Moderate turbidity,2,3
+469,/content/resized_folder/resized_DSC_8974.jpg,High,High turbidity,3,3
+470,/content/resized_folder/resized_DSC_8958.jpg,High,High turbidity,3,3
+471,/content/resized_folder/resized_DSC_8954.jpg,Very high,Very high turbidity,4,4
+472,/content/resized_folder/resized_DSC_8982.jpg,Moderate,Very high turbidity,4,2
+473,/content/resized_folder/resized_DSC_8905.jpg,Very high,Moderate turbidity,2,4
+474,/content/resized_folder/resized_DSC_8974.jpg,Moderate,High turbidity,3,2
+475,/content/resized_folder/resized_DSC_8901.jpg,High,Moderate turbidity,2,3
+476,/content/resized_folder/resized_DSC_8971.jpg,Moderate,High turbidity,3,2
+477,/content/resized_folder/resized_DSC_8973.jpg,High,Very high turbidity,4,3
+478,/content/resized_folder/resized_DSC_8912.jpg,High,Moderate turbidity,2,3
+479,/content/resized_folder/resized_DSC_8940.jpg,Very high,Very high turbidity,4,4
+480,/content/resized_folder/resized_DSC_8907.jpg,Moderate,Moderate turbidity,2,2
+481,/content/resized_folder/resized_DSC_8971.jpg,High,High turbidity,3,3
+482,/content/resized_folder/resized_DSC_8972.jpg,High,High turbidity,3,3
+483,/content/resized_folder/resized_DSC_8915.jpg,Very high,Moderate turbidity,2,4
+484,/content/resized_folder/resized_DSC_8957.jpg,Very high,High turbidity,3,4
+485,/content/resized_folder/resized_DSC_8902.jpg,Very high,Moderate turbidity,2,4
+486,/content/resized_folder/resized_DSC_8968.jpg,High,High turbidity,3,3
+487,/content/resized_folder/resized_DSC_8957.jpg,Moderate,High turbidity,3,2
+488,/content/resized_folder/resized_DSC_8900.jpg,Very high,Moderate turbidity,2,4
+489,/content/resized_folder/resized_DSC_8944.jpg,High,Very high turbidity,4,3
+490,/content/resized_folder/resized_DSC_8902.jpg,Very high,Moderate turbidity,2,4
+491,/content/resized_folder/resized_DSC_8963.jpg,Moderate,High turbidity,3,2
+492,/content/resized_folder/resized_DSC_8902.jpg,High,Moderate turbidity,2,3
+493,/content/resized_folder/resized_DSC_8971.jpg,Moderate,High turbidity,3,2
+494,/content/resized_folder/resized_DSC_8969.jpg,High,High turbidity,3,3
+495,/content/resized_folder/resized_DSC_8960.jpg,Moderate,Very high turbidity,4,2
+496,/content/resized_folder/resized_DSC_8905.jpg,Very high,Moderate turbidity,2,4
+497,/content/resized_folder/resized_DSC_8946.jpg,Moderate,Very high turbidity,4,2
+498,/content/resized_folder/resized_DSC_8905.jpg,High,Moderate turbidity,2,3
+499,/content/resized_folder/resized_DSC_8965.jpg,High,High turbidity,3,3
